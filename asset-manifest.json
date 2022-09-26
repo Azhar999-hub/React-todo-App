@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Azhar999-hub/React-todo-App/static/css/main.0c3006f8.css",
+    "main.js": "/Azhar999-hub/React-todo-App/static/js/main.7d264f21.js",
+    "static/js/787.1ebfcc96.chunk.js": "/Azhar999-hub/React-todo-App/static/js/787.1ebfcc96.chunk.js",
+    "static/media/tod-img.jpg": "/Azhar999-hub/React-todo-App/static/media/tod-img.43c01291c62f8810cfa3.jpg",
+    "index.html": "/Azhar999-hub/React-todo-App/index.html",
+    "main.0c3006f8.css.map": "/Azhar999-hub/React-todo-App/static/css/main.0c3006f8.css.map",
+    "main.7d264f21.js.map": "/Azhar999-hub/React-todo-App/static/js/main.7d264f21.js.map",
+    "787.1ebfcc96.chunk.js.map": "/Azhar999-hub/React-todo-App/static/js/787.1ebfcc96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c3006f8.css",
+    "static/js/main.7d264f21.js"
+  ]
+}
